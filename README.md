@@ -119,6 +119,7 @@ output "public_ip" {
 2. **Access Apache Web Server**
    - Open a browser and enter the public IP address. You should see a webpage with the message:  
      **Hello World from `<hostname>`**
+![image](https://github.com/user-attachments/assets/a3890fd0-72e7-4758-ab46-531aa53a3627)
 
 ---
 
@@ -134,3 +135,4 @@ output "public_ip" {
 
 ## Conclusion:
 This project automated the setup of an EC2 instance with Apache HTTP server using Terraform, showcasing how infrastructure can be provisioned as code with the added benefit of configuring services via user data scripts.
+
